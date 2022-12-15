@@ -14,4 +14,7 @@
         <item>reboot_fastboot</item>
     </string-array>
 
+    <!-- Parallel space max count. Should overlay according to device performance. -->
+    <integer name="config_parallelSpaceMaxCount">5</integer>
+
 </resources>
